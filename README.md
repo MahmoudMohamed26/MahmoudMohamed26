@@ -29,7 +29,7 @@ I enjoy working with modern web technologies, creating smooth UI/UX, and constan
     <img src="https://cdn.simpleicons.org/gmail" width="38" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/mahmoud-mohamed-kamel" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin](https://raw.githubusercontent.com/rahuldkjain/gith…/master/src/images/icons/Social/linked-in-alt.svg" width="38" alt="LinkedIn"/>
+    <img src="[https://cdn.simpleicons.org/linkedin](https://raw.githubusercontent.com/rahuldkjain/gith…/master/src/images/icons/Social/linked-in-alt.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" width="38" alt="LinkedIn"/>
   </a>
   <a href="tel:+201013958075">
     <img src="https://cdn.simpleicons.org/googlemessages" width="38" alt="Phone"/>
