@@ -3,7 +3,6 @@
 Front-End Developer passionate about building clean, responsive, and user-focused web applications.  
 I enjoy working with modern web technologies, creating smooth UI/UX, and constantly improving my skills.
 
----
 
 ## 🚀 Languages and Tools:
 
@@ -23,7 +22,6 @@ I enjoy working with modern web technologies, creating smooth UI/UX, and constan
   <img src="https://cdn.simpleicons.org/docker" width="40" alt="docker"/>
 </p>
 
----
 
 ## 📬 Contact Me
 
