@@ -1,4 +1,4 @@
-# Hi, I'm Mahmoud 👋
+# Hi, I'm Mahmoud Kamel 👋
 
 ## 👨‍💻 About Me
 Front-End Developer passionate about building clean, responsive, and user-focused web applications.  
@@ -10,7 +10,7 @@ I enjoy working with modern web technologies, creating smooth UI/UX, and constan
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/html5" width="40" alt="HTML5"/>
-  <img src="https://cdn.simpleicons.org/css3" width="40" alt="CSS3"/>
+  <img src="https://cdn.simpleicons.org/css" width="40" alt="CSS3"/>
   <img src="https://cdn.simpleicons.org/javascript" width="40" alt="JavaScript"/>
   <img src="https://cdn.simpleicons.org/typescript" width="40" alt="TypeScript"/>
   <img src="https://cdn.simpleicons.org/react" width="40" alt="React"/>
