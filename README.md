@@ -21,3 +21,17 @@ I enjoy working with modern web technologies, creating smooth UI/UX, and constan
 </p>
 
 ---
+
+## 📬 Contact Me
+
+<p align="left">
+  <a href="mailto:mahmoudkamel26300@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" width="38" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoud-mohamed-kamel" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin" width="38" alt="LinkedIn"/>
+  </a>
+  <a href="tel:+201013958075">
+    <img src="https://cdn.simpleicons.org/googlemessages" width="38" alt="Phone"/>
+  </a>
+</p>
